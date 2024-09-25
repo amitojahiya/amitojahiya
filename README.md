@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKv3KtNSMhZPTWAXk8ssJV2RXMo4hs1OiiA&s
+[![MasterHead](https://1.bp.blogspot.com/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKv3KtNSMhZPTWAXk8ssJV2RXMo4hs1OiiA&s)
 <h1 align="center">Hi 👋, I'm Amit Ojahiya</h1>
 <h3 align="center">AI/ML Engineer focusing on applied AI</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDf8JPMcXb27nRYKBB5a5AviZl_fT6MYDrVQ&s">
